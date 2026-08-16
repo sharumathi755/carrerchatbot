@@ -265,9 +265,7 @@ npm run lint
 ```bash
 npm run preview
 ```
-## 📸 Screenshots
-
-![Career Chatbot](./chatbot.png)
+![Career Chatbot](./Chatbot.png)
 
 ## 🎯 Learning Outcomes
 
