@@ -268,13 +268,7 @@ npm run preview
 
 ## 📸 Screenshots
 
-Add screenshots of the chatbot interface here.
-
-Example:
-
-```markdown
-![Career Chatbot](public/screenshot.png)
-```
+![Career Chatbot](Screenshot%20%28443%29.png)
 
 ## 🎯 Learning Outcomes
 
